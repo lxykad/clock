@@ -1,0 +1,277 @@
+[
+    {
+        "outputFile": "D:\\learn\\LouClock\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 51,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 60,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 60,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 53,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 53,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 58,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 58,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 55,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 55,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 53,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 53,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 55,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 55,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 59,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 59,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 53,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 53,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 57,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 55,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 46,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "D:\\learn\\LouClock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

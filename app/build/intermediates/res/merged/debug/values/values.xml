@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference|color" name="bgColor"/>
+    <attr format="reference|color" name="centerPointColor"/>
+    <attr format="reference|color" name="hourColor"/>
+    <attr format="reference|color" name="longScaleColor"/>
+    <attr format="reference|color" name="minuteColor"/>
+    <attr format="reference|color" name="ringColor"/>
+    <attr format="reference|color" name="secondColor"/>
+    <attr format="reference|color" name="shortScaleColor"/>
+    <attr format="reference|color" name="textColor"/>
+    <declare-styleable name="ClockView"><attr name="bgColor"/><attr name="ringColor"/><attr name="centerPointColor"/><attr name="textColor"/><attr name="hourColor"/><attr name="minuteColor"/><attr name="secondColor"/><attr name="longScaleColor"/><attr name="shortScaleColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Lou Clock</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

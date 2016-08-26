@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="22.2.1$Generated" generated="true"><source path="D:\learn\LouClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\learn\LouClock\app\src\main\res"/><source path="D:\learn\LouClock\app\build\generated\res\rs\debug"/><source path="D:\learn\LouClock\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\learn\LouClock\app\src\debug\res"/></dataSet><dataSet config="22.2.1" from-dependency="true" generated-set="22.2.1$Generated"><source path="D:\learn\LouClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\learn\LouClock\app\src\main\res"><file name="ic_launcher" path="D:\learn\LouClock\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="activity_main" path="D:\learn\LouClock\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file path="D:\learn\LouClock\app\src\main\res\values\attrs.xml" qualifiers=""><attr format="reference|color" name="centerPointColor"/><declare-styleable name="ClockView">
+        <attr name="bgColor"/>
+        <attr name="ringColor"/>
+        <attr name="centerPointColor"/>
+        <attr name="textColor"/>
+        <attr name="hourColor"/>
+        <attr name="minuteColor"/>
+        <attr name="secondColor"/>
+        <attr name="longScaleColor"/>
+        <attr name="shortScaleColor"/>
+    </declare-styleable><attr format="reference|color" name="ringColor"/><attr format="reference|color" name="bgColor"/><attr format="reference|color" name="longScaleColor"/><attr format="reference|color" name="minuteColor"/><attr format="reference|color" name="shortScaleColor"/><attr format="reference|color" name="textColor"/><attr format="reference|color" name="secondColor"/><attr format="reference|color" name="hourColor"/></file><file path="D:\learn\LouClock\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\learn\LouClock\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Lou Clock</string></file><file path="D:\learn\LouClock\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="D:\learn\LouClock\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="D:\learn\LouClock\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="D:\learn\LouClock\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="D:\learn\LouClock\app\build\generated\res\rs\debug"/><source path="D:\learn\LouClock\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\learn\LouClock\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ClockView"><attr name="bgColor"/><attr name="ringColor"/><attr name="centerPointColor"/><attr name="textColor"/><attr name="hourColor"/><attr name="minuteColor"/><attr name="secondColor"/><attr name="longScaleColor"/><attr name="shortScaleColor"/></declare-styleable></configuration></mergedItems></merger>

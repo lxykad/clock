@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androidSdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\learn\LouClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_3b66992a73c0d72b4c93f18d038417aeeab63bb5\classes.dex" />
+    </item>
+    <item
+        jar="D:\learn\LouClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce54b7d251655199874cce52d2300f68748fe278">
+        <dex dex="D:\learn\LouClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c016ff23a5607b931844bdeded6a9adfacf512dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\learn\LouClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\learn\LouClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_18eb99cbcc5d0736b97b03535d647c9b1fb086dd\classes.dex" />
+    </item>
+    <item
+        jar="D:\learn\LouClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\learn\LouClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_8e90e5aba270bdd69c3635bd985b2f79afb87bd8\classes.dex" />
+    </item>
+    <item
+        jar="D:\learn\LouClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fee0593520117718b2650379e80f727ac5a8031a">
+        <dex dex="D:\learn\LouClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc3e4b46076266141a58977482338ebbd3b5753e\classes.dex" />
+    </item>
+
+</items>
